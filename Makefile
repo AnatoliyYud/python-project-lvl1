@@ -4,13 +4,14 @@ install: #установить poetry
 brain-games: # запускаем brain-games
 	poetry run brain-games
 
-build:
+build: # building
 	poetry build
 
-publish:
+publish: #publish
 	poetry publish --dry-run
 
-package-install:
+package-install: # install package
 	python3 -m pip install --user dist/*.whl
 
-
+lint: # flake8 linter checking
+	poetry run flake8 brain_games
