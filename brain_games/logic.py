@@ -29,7 +29,7 @@ def game_logic():
             print("Let's try again,", name + '!')
             break
         elif answer == 'no' and digit % 2 == 0:
-            print("'yes' is wrong answer ;(. Correct answer was 'no'.")
+            print("'no' is wrong answer ;(. Correct answer was 'yes'.")
             print("Let's try again,", name + '!')
             break
         elif answer != 'yes' or answer != 'no':
