@@ -9,3 +9,6 @@
 
 ### assciinema record with package install and brain-even results
 https://asciinema.org/a/a39AmwvG8vBsm46MEEi63eM2I
+
+### assciinema record with brain-calc results
+https://asciinema.org/a/UIM9T0kA5Hotzz6M8I9zkopl0
