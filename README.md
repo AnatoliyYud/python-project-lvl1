@@ -18,3 +18,6 @@ https://asciinema.org/a/xoh2D2uTMjLIodU1sYukFfkaS
 
 ### assciinema record with brain-progression results
 https://asciinema.org/a/iFJIq46GlwsC7CMmXWhOY2EQP
+
+### assciinema record with brain-prime results. Last task.
+https://asciinema.org/a/hBiUpPIjNcVC5spxmcqDLNIro
