@@ -32,7 +32,7 @@ def game_even():
             print("'no' is wrong answer ;(. Correct answer was 'yes'.")
             print("Let's try again,", name + '!')
             break
-        elif answer != 'yes' or answer != 'no':
+        elif answer != 'yes' and answer != 'no':
             print("Please answer 'yes' or 'no'!")
             print("Let's try again,", name + '!')
             break
