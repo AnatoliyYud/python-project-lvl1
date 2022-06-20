@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-from brain_games.logic import game_prime
+from brain_games.logic_for_brain_prime import game_prime
 
 
 def main():
